@@ -1,0 +1,49 @@
+nav {
+    display: flex;
+    /* width: 1125px; */
+    height: 44px;
+    padding: 0px 50px 0px 51px;
+    justify-content: s;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0.80);
+}
+
+nav>div {
+    padding-left: 80px;
+    padding-right: 50px;
+    display: flex;
+    width: 996px;
+    height: 44px;
+    padding-right: 0px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 24.75px;
+    flex-shrink: 0;
+}
+
+nav>div>img {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav>div>span {
+    width: 30px;
+    height: 44px;
+}
+
+main>div {
+    display: flex;
+    width: 1072.495px;
+    height: 129px;
+    padding: 3px 0px 49px 171.672px;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 40.422px;
+    flex-shrink: 0;
+    background-color:transparent;
+}
+main>div>img{
+width: 40px;
+height: 54px;
+}
